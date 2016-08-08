@@ -1,0 +1,23 @@
+{
+  "name": "jaz-nodeschool-javascripting",
+  "version": "1.0.0",
+  "description": "NodeSchool Solutions by Jaz for javascripting workshopper",
+  "main": "index.js",
+  "dependencies": {
+    "javascripting": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jazeee/nodeschool-javascripting.git"
+  },
+  "author": "Jaz Singh",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jazeee/nodeschool-javascripting/issues"
+  },
+  "homepage": "https://github.com/jazeee/nodeschool-javascripting#readme"
+}
