@@ -8,7 +8,7 @@ This one is obviously fairly elementary, but I am doing it to help with mentorin
 ```
 sudo npm install -g coffee-script
 npm install
-coffee -c ./
+coffee -c --output compiled ./
 ```
 Then run
 ```
